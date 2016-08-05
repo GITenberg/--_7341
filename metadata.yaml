@@ -1,0 +1,31 @@
+_repo: --_7341
+_version: 0.0.1
+alternative_title: Liezi
+creator:
+  author:
+    agent_name: Liezi, 4th cent. B.C.
+    aliases:
+    - Lie, Yukou
+    - 列御寇
+    gutenberg_agent_id: '2430'
+    url: http://www.gutenberg.org/2009/agents/2430
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%88%97%E5%BE%A1%E5%AF%87
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7341'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Politics and government -- To 221 B.C.'
+- !lcsh 'China -- Politics and government -- 960-1644'
+- !lcsh 'Chinese classics'
+- !lcc 'BL'
+- !lcsh 'China -- Politics and government -- 221 B.C.-960 A.D.'
+- !lcsh 'Taoism'
+- GITenberg
+title: 列子
+url: http://www.gutenberg.org/ebooks/7341
